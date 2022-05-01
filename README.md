@@ -1,0 +1,2 @@
+# firstInGit
+word file
